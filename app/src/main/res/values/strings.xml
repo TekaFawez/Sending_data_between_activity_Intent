@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TP02</string>
+    <string name="dinarEuro">Dinar to Euro</string>
+    <string name="EuroDinar">Euro to Dinar</string>
+    <string name="resltat">Résultat de conversion</string>
+    <string name="hint">donner montant</string>
+    <string name="temp">Conversion de température</string>
+    <string name="btn1">Celsius-->Fahrenheit</string>
+    <string name="btn2">Fahrenheit-->Celsius</string>
+
+</resources>
